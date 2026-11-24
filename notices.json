@@ -1,3 +1,24 @@
 {
-  "notices": []
+  "notices": [
+    {
+      "id": "2026-11-24-promo-nawabari",
+      "date": "2026.11.24",
+      "titleJa": "「ペンギンのなわばり」もあります",
+      "titleEn": "Also Try: Penguin Territory",
+      "bodyJa": "いつも遊んでくれてありがとう！\n同じ作者のパズルゲーム「ペンギンのなわばり」も配信中です🐧\n\n六角の盤に、ペンギンたちのなわばりを決めていくパズル。同じ色に1羽、まっすぐ並べない、となり合わない、の3つのきまりで解いていきます。\n着せかえやガチャ、毎日のミッションもあります。\n\nApp Storeで「ペンギンのなわばり」とさがしてね。\n無料で遊べるので、よかったらのぞいてみてね！",
+      "bodyEn": "Thanks for playing!\nOur puzzle game \"Penguin Territory\" is also available on the Japanese App Store 🐧\n\nPlace penguins on a hexagonal board so each one gets its own territory — one per color, no two in a line, and no penguins touching.\nThere's also dress-up, a gacha and daily missions.\n\nSearch for \"Penguin Territory\" on the App Store.\nIt's free to play, so give it a look!",
+      "startsAt": "2026-11-24T17:41:00+09:00",
+      "endsAt": "2027-01-24T23:59:59+09:00"
+    },
+    {
+      "id": "2026-11-24-promo-slide",
+      "date": "2026.11.24",
+      "titleJa": "「すべりだせ！ペンギン」もあります",
+      "titleEn": "Also Try: Slide Out, Penguin!",
+      "bodyJa": "いつも遊んでくれてありがとう！\n同じ作者のパズルゲーム「すべりだせ！ペンギン」も配信中です🐧\n\n氷の上をすべり出したら、岩にぶつかるまで止まれないペンギンを、出口までみちびくパズルです。\n1000ステージと、毎日とどく「今日の1問」、170種以上の着せかえもあります。\n\nApp Storeで「すべりだせ！ペンギン」とさがしてね。\n無料で遊べるので、よかったらのぞいてみてね！",
+      "bodyEn": "Thanks for playing!\nOur puzzle game \"Slide Out, Penguin!\" is also available 🐧\n\nOnce your penguin starts sliding across the ice, it can't stop until it hits a rock — guide it to the exit!\nThere are 1,000 stages, a new daily puzzle every day, and over 170 outfits to collect.\n\nSearch for \"Slide Out, Penguin!\" on the App Store.\nIt's free to play, so give it a look!",
+      "startsAt": "2026-11-24T17:40:00+09:00",
+      "endsAt": "2027-01-24T23:59:59+09:00"
+    }
+  ]
 }
